@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace DiamondProblemCSharp.Devices
 {
-    internal class Printer : Device
+    internal class Printer : Device, IPrinter
     {
-        public override void ProcessDoc(string document)
+        public string Print()
         {
-            Console.WriteLine("Printer Processing : " + document);
+            return "Printer print ";
         }
 
 
-        public string Print()
+        public override void ProcessDoc(string document)
         {
-            return "Printer print Result";
+            Console.WriteLine("Processing Printer " + document);
         }
     }
 }
