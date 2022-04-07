@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\DiamondProblemCSharp\DiamondProblemCSharp\bin\Debug\DiamondProblemCSharp.exe.config
+C:\Users\sande\source\repos\DiamondProblemCSharp\DiamondProblemCSharp\bin\Debug\DiamondProblemCSharp.exe
+C:\Users\sande\source\repos\DiamondProblemCSharp\DiamondProblemCSharp\bin\Debug\DiamondProblemCSharp.pdb
+C:\Users\sande\source\repos\DiamondProblemCSharp\DiamondProblemCSharp\obj\Debug\DiamondProblemCSharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\DiamondProblemCSharp\DiamondProblemCSharp\obj\Debug\DiamondProblemCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\DiamondProblemCSharp\DiamondProblemCSharp\obj\Debug\DiamondProblemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\DiamondProblemCSharp\DiamondProblemCSharp\obj\Debug\DiamondProblemCSharp.exe
+C:\Users\sande\source\repos\DiamondProblemCSharp\DiamondProblemCSharp\obj\Debug\DiamondProblemCSharp.pdb
